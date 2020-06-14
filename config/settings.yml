@@ -1,0 +1,10 @@
+plugins:
+  discourse_birthdate_enabled:
+    default: true
+    client: true
+  awesomeness_enabled:
+    default: true
+    client: true
+  awesomeness_max_volume:
+    default: 10
+    client: true
